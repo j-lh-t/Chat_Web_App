@@ -23,4 +23,3 @@
     <li> Tệp sb.sqlite3: tệp cơ sở dữ liệu chạy thử. </li>
     <li> Tệp manage.py: tệp chính của django. </li>
 </ul>
-
